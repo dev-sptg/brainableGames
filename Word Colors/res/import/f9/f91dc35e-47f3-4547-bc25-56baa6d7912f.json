@@ -1,0 +1,120 @@
+[
+  {
+    "__type__": "cc.SceneAsset",
+    "_name": "load",
+    "scene": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Scene",
+    "_name": "New Node",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      }
+    ],
+    "_anchorPoint": {
+      "__type__": "cc.Vec2"
+    },
+    "autoReleaseAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Canvas",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Canvas",
+        "node": {
+          "__id__": 2
+        },
+        "_designResolution": {
+          "__type__": "cc.Size",
+          "width": 640,
+          "height": 480
+        }
+      },
+      {
+        "__type__": "b7ad0C/r+1Db4P+5XlxweWa",
+        "node": {
+          "__id__": 2
+        },
+        "dailyTraining": false
+      }
+    ],
+    "_id": "22socmXv1CobPmZGPUwlvK",
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 640,
+      "height": 480
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 320,
+      "y": 240
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Audio Manager",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "f7322bN101KEaI1sLv35w5E",
+        "node": {
+          "__id__": 3
+        }
+      }
+    ],
+    "_id": "e8cPGfapBEwqVT9uYkwynS"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Save Manager",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "46bcfWJVRpGzoDMp6qdkvF7",
+        "node": {
+          "__id__": 4
+        },
+        "projectId": "brainable-61838",
+        "gameId": "GwSLcf15XcYxn2qmcbbT"
+      }
+    ],
+    "_id": "175BmQBSlDs6Kzyo+cAcCu"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Analytics",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "9a581on6m1OlJqhj3Hgxba5",
+        "node": {
+          "__id__": 5
+        }
+      }
+    ],
+    "_id": "a4Xalo96lJKoITdHKZCElp"
+  }
+]

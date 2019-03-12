@@ -1,0 +1,16 @@
+[
+  {
+    "__type__": "cc.TTFFont",
+    "_name": "Sofia Pro Light",
+    "_rawFiles": [
+      "Sofia Pro Light.ttf"
+    ]
+  },
+  {
+    "__type__": "cc.TTFFont",
+    "_name": "Sofia Pro Regular",
+    "_rawFiles": [
+      "Sofia Pro Regular.ttf"
+    ]
+  }
+]

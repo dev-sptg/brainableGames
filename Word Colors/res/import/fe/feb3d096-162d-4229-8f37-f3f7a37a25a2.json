@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "card_bg": {
+      "__uuid__": "945k86S0tBiJvgeyy1UdLF"
+    },
+    "button_bg": {
+      "__uuid__": "f7suKrVvtPAJO6C9w2a07r"
+    },
+    "button_hover": {
+      "__uuid__": "31XNv5+NJPq71a5mklcAgL"
+    },
+    "play_hover_": {
+      "__uuid__": "88vMyIe/hP6oa9wZ5BIBUo"
+    },
+    "play_normal": {
+      "__uuid__": "02GZJiO99D3qmO+zKF+6WV"
+    },
+    "sound_hover": {
+      "__uuid__": "6c6acSRJtAlp0n5ktfMP+O"
+    },
+    "sound_normal": {
+      "__uuid__": "76izV0GPFMBaOxlZD7bzp/"
+    },
+    "retry_hover": {
+      "__uuid__": "7bKdszJjNEm7g+HccVHS6E"
+    },
+    "retry_normal": {
+      "__uuid__": "33T2c95kZAD5FzmdFYNg4v"
+    }
+  }
+}

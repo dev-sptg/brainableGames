@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "card": {
+      "__uuid__": "b2WnU7IpZI7qxphdZVno41"
+    },
+    "countdown_circle": {
+      "__uuid__": "10pJDmmHdFgII5r0jRPs8A"
+    },
+    "test": {
+      "__uuid__": "eexAVCc9dNOokJZM9aGpkY"
+    },
+    "countdown_fill": {
+      "__uuid__": "d8SQCVcxdInKdjR5DrSHLI"
+    },
+    "level_progressbg": {
+      "__uuid__": "60p3LrUOBDJ6OzJpNhbajT"
+    },
+    "button_arrowactive": {
+      "__uuid__": "e3Ko55bglEKbPw3nPHG9VZ"
+    },
+    "button_arrowinactive": {
+      "__uuid__": "a7xQsyuU9EepQWY8nIs05d"
+    },
+    "correct": {
+      "__uuid__": "d4Qu4jY7lHLYFyDohvJXBY"
+    },
+    "not correct": {
+      "__uuid__": "0cn9Sn9UBJTL8gg5bNx9Ih"
+    },
+    "level_progress": {
+      "__uuid__": "59pNUq/kBNnLstJRlYNYLn"
+    },
+    "check": {
+      "__uuid__": "eevaW/35JEapNiPxRdRn4t"
+    },
+    "level_bg": {
+      "__uuid__": "01sCRDalhD+q8kWGBz/cfF"
+    },
+    "pause": {
+      "__uuid__": "25V0R1cJtCho5DtDE72TQO"
+    },
+    "arrow left": {
+      "__uuid__": "1cOo3jW59N278cEI8LvJhB"
+    },
+    "arrow right": {
+      "__uuid__": "76A2bfQt9PToBTk7iG8C/Z"
+    }
+  }
+}

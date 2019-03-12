@@ -1,0 +1,182 @@
+[
+  {
+    "level": 1,
+    "time": 60,
+    "pass": 10,
+    "perfect": 12
+  },
+  {
+    "level": 2,
+    "time": 60,
+    "pass": 13,
+    "perfect": 15
+  },
+  {
+    "level": 3,
+    "time": 60,
+    "pass": 16,
+    "perfect": 19
+  },
+  {
+    "level": 4,
+    "time": 60,
+    "pass": 19,
+    "perfect": 22
+  },
+  {
+    "level": 5,
+    "time": 60,
+    "pass": 22,
+    "perfect": 26
+  },
+  {
+    "level": 6,
+    "time": 60,
+    "pass": 25,
+    "perfect": 30
+  },
+  {
+    "level": 7,
+    "time": 60,
+    "pass": 28,
+    "perfect": 33
+  },
+  {
+    "level": 8,
+    "time": 60,
+    "pass": 31,
+    "perfect": 37
+  },
+  {
+    "level": 9,
+    "time": 60,
+    "pass": 34,
+    "perfect": 40
+  },
+  {
+    "level": 10,
+    "time": 60,
+    "pass": 37,
+    "perfect": 44
+  },
+    {
+    "level": 11,
+    "time": 90,
+    "pass": 15,
+    "perfect": 18
+  },
+  {
+    "level": 12,
+    "time": 90,
+    "pass": 19,
+    "perfect": 22
+  },
+  {
+    "level": 13,
+    "time": 90,
+    "pass": 24,
+    "perfect": 28
+  },
+  {
+    "level": 14,
+    "time": 90,
+    "pass": 28,
+    "perfect": 33
+  },
+  {
+    "level": 15,
+    "time": 90,
+    "pass": 33,
+    "perfect": 39
+  },
+  {
+    "level": 16,
+    "time": 90,
+    "pass": 37,
+    "perfect": 44
+  },
+  {
+    "level": 17,
+    "time": 90,
+    "pass": 42,
+    "perfect": 50
+  },
+  {
+    "level": 18,
+    "time": 90,
+    "pass": 46,
+    "perfect": 55
+  },
+  {
+    "level": 19,
+    "time": 90,
+    "pass": 51,
+    "perfect": 61
+  },
+  {
+    "level": 20,
+    "time": 90,
+    "pass": 55,
+    "perfect": 66
+  },
+    {
+    "level": 21,
+    "time": 120,
+    "pass": 20,
+    "perfect": 24
+  },
+  {
+    "level": 22,
+    "time": 120,
+    "pass": 26,
+    "perfect": 31
+  },
+  {
+    "level": 23,
+    "time": 120,
+    "pass": 32,
+    "perfect": 38
+  },
+  {
+    "level": 24,
+    "time": 120,
+    "pass": 38,
+    "perfect": 45
+  },
+  {
+    "level": 25,
+    "time": 120,
+    "pass": 44,
+    "perfect": 52
+  },
+  {
+    "level": 26,
+    "time": 120,
+    "pass": 50,
+    "perfect": 60
+  },
+  {
+    "level": 27,
+    "time": 120,
+    "pass": 56,
+    "perfect": 67
+  },
+  {
+    "level": 28,
+    "time": 120,
+    "pass": 62,
+    "perfect": 74
+  },
+  {
+    "level": 29,
+    "time": 120,
+    "pass": 68,
+    "perfect": 81
+  },
+  {
+    "level": 30,
+    "time": 120,
+    "pass": 74,
+    "perfect": 88
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading_bar",
+    "texture": "a1/TNf2e5P2Z25qZl7OwbQ",
+    "rect": [
+      0,
+      0,
+      111,
+      12
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      112,
+      12
+    ]
+  }
+}
