@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+  </head>
+  <body>
+    <h2>GAME IN IFRAME</h2>
+	<div for='email' style='float: left; margin-right: 10px' >User email:</div>
+	<div id='email' style="font-weight:1000;">... loading data from firestore<div/>
+
+	<script>
+	  const urlParams = new URLSearchParams(window.location.search);
+    const userId = urlParams.get('user');
+    const accessToken = urlParams.get('accessToken');
+
+    function getPlayerData(userId, accessToken) {
+	  console.log('getPlayerData with accessToken - ', accessToken);
+      headers = new Headers({
+        "Content-Type": 'application/json',
+        "Authorization": 'Bearer '+accessToken,
+      });
+      fetch('https://firestore.googleapis.com/v1/projects/brainable-dev/databases/(default)/documents/users/' + userId, {headers})
+      .then(response => response.json())
+      .then(({fields}) => {
+        console.log('res', fields.email);
+        if (fields.hasOwnProperty('email') && fields['email'].hasOwnProperty("stringValue")) {
+          document.getElementById('email').innerHTML = fields['email'].stringValue;
+        }
+      })
+      .catch(() => {
+        document.getElementById('email').innerHTML = 'Error getting document from firestore';
+      });
+    }
+
+    setInterval(() => getPlayerData(userId, accessToken), 5000);
+
+	</script>
+  </body>
+</html>
+
